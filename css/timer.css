@@ -164,3 +164,22 @@ p {
 .start-btn:hover {
     border: #526D82 3px solid;
 }
+
+.reset-btn {
+    margin-top: 15px;
+    width: 270px;
+    height: 75px;
+    font-size: 32px;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    border-radius: 25px;
+    cursor: pointer;
+    border: transparent;
+    background-color: #9DB2BF;
+    color: #27374D;
+}
+
+.reset-btn:hover {
+    border: #526D82 3px solid;
+}
